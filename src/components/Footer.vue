@@ -40,6 +40,10 @@ footer {
   .footer__nav {
     display: none;
   }
+
+  .right {
+    font-size: 1rem;
+  }
 }
 
 @media screen and (max-width: 320px) {
