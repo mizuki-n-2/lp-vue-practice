@@ -1,14 +1,12 @@
 <template>
   <div id="app">
     <Header></Header>
-    <main>
-      <Eyecatch></Eyecatch> 
-      <About></About>
-      <Service></Service>
-      <Info></Info>
-      <Faq></Faq>
-      <Contact></Contact>
-    </main>
+    <Eyecatch></Eyecatch> 
+    <About></About>
+    <Service></Service>
+    <Info></Info>
+    <Faq></Faq>
+    <Contact></Contact>
     <Footer></Footer>
   </div>
 </template>
